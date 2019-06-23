@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "C:\\Users\\John\\source\\repos\\MultiDrugSideEffects"
+		}
+	],
+	"settings": {
+		"git.showPushSuccessNotification": true,
+		"scm.alwaysShowProviders": true
+	}
+}
